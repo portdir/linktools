@@ -43,7 +43,8 @@
 
 0.0.0.0 pickasso.spotifycdn.com
 0.0.0.0 guc3-dealer.g2.spotify.com
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
+0.0.0.0 encore.scdn.co
+0.0.0.0 tls130rtt.spotifycdn.map.fastly.net
+0.0.0.0 guc3-spclient.spotify.com
+0.0.0.0 (\.|^)spotify\.com$
 
