@@ -1,0 +1,42 @@
+# Spotify's Anti-Adveritsing blocking servers, tricking services to stop music services (DONT BLOCK THESE!):
+0.0.0.0 gcdn.2mdn.net
+0.0.0.0 r9---sn-n4v7kn76.c.2mdn.net
+0.0.0.0 gew1-accesspoint-b-zzfg.ap.spotify.com
+0.0.0.0 ns1.p23.dynect.net
+0.0.0.0 ns3.p23.dynect.net
+0.0.0.0 ns4.p23.dynect.net
+0.0.0.0 dns1.p07.nsone.net
+0.0.0.0 dns2.p07.nsone.net
+0.0.0.0 dns3.p07.nsone.net
+0.0.0.0 dns4.p07.nsone.net
+0.0.0.0 audio-sp-fra2.pscdn.co
+0.0.0.0 104.199.65.11
+
+# Don't block entries below, they are needed for Spotify to be fully functional.
+0.0.0.0 apresolve.spotify.com #access point list also used for chromecast
+0.0.0.0 api-spotify.com
+0.0.0.0 api-partner.spotify.com
+0.0.0.0 api-tv.spotify.com
+0.0.0.0 ash-dealer.spotify.com #Load balancer
+0.0.0.0 ash.weblb-wg.dual-gslb.spotify.com #Load balancer
+0.0.0.0 audio-sp.spotify.com #Audio server!
+0.0.0.0 audio-fa.spotify.com #Audio server!
+0.0.0.0 dealer.spotify.com
+0.0.0.0 dealer-ssl.spotify.com
+0.0.0.0 gslb.spotify.com
+0.0.0.0 open.scdn.co
+0.0.0.0 open.spotify.com #web player, you can block this for app only
+0.0.0.0 play.spotify.com #web player, you can block this for app only
+0.0.0.0 spclient.spotify.com
+0.0.0.0 sto3.spotify.com
+0.0.0.0 wg.spotify.com #(*) Breaks entire app
+0.0.0.0 geo3.ggpht.com #Just dont block!
+0.0.0.0 googlehosted.l.googleusercontent.com #Just dont block!
+0.0.0.0 redirector.gvt1.com
+
+# Optional: If you want to listen to music on your TV, or for cover art example.
+0.0.0.0 tv.scdn.co
+0.0.0.0 i.scdn.co #album covers
+0.0.0.0 o.scdn.co #more images
+0.0.0.0 p.scdn.co #maybe profile images
+0.0.0.0 t.scdn.co #maybe images for charts
